@@ -128,15 +128,19 @@ plt.axis("off")
 </br>
 
 i) Using Averaging Filter
+
 ![output](https://github.com/Saibandhavi75/Implementation-of-Filters/blob/main/di-1.png?raw=true)
 
 ii) Using Weighted Averaging Filter
+
 ![output](https://github.com/Saibandhavi75/Implementation-of-Filters/blob/main/di-2.png?raw=true)
 
 iii) Using Weighted Averaging Filter
+
 ![output](https://github.com/Saibandhavi75/Implementation-of-Filters/blob/main/di-3.png?raw=true)
 
 iv) Using Median Filter
+
 ![output](https://github.com/Saibandhavi75/Implementation-of-Filters/blob/main/di-4.png?raw=true)
 
 
@@ -144,6 +148,7 @@ iv) Using Median Filter
 </br>
 
 i) Using Laplacian Kernal
+
 ![output](https://github.com/Saibandhavi75/Implementation-of-Filters/blob/main/di-5.png?raw=true)
 
 ii) Using Laplacian Operator
